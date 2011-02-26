@@ -1,0 +1,9 @@
+[submodule "zeromq2-1"]
+	path = zeromq2-1
+	url = git://github.com/zeromq/zeromq2-1.git
+[submodule "zeromq2"]
+	path = zeromq2
+	url = git://github.com/zeromq/zeromq2.git
+[submodule "ztools"]
+	path = ztools
+	url = git://github.com/zeromq/ztools.git
